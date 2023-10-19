@@ -2,6 +2,7 @@
 Exploratory Data Analysis - Retail
 
 Problem Statement
+
 The goal of this project was to conduct a comprehensive Exploratory Data Analysis (EDA) on the 'SampleSuperstore' dataset, aiming to uncover insights that could assist a business manager in identifying weak areas and enhancing profitability. This analysis delved into order records to unveil trends, patterns, and factors that impact business operations and profits.
 
 
@@ -19,7 +20,10 @@ In this task, we will perform ‘Exploratory Data Analysis’ on dataset ‘Samp
 
 -> In Category, Furniture has large number of sales, instead of making profit, it makes loss. So, there is need to limit the sales of Furniture.
 
+
 Author
+
 Abhishek Thakur
+
 Reference
 The Spark Foundation's Graduate Rotational Internship Program
